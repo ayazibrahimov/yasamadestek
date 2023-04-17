@@ -15,7 +15,7 @@
                         <li><span>/</span></li>
                         <li class="active">Pages</li>
                     </ul>
-                    <h2>About us</h2>
+                    <h2>Haqqımızda</h2>
                 </div>
             </div>
         </section>

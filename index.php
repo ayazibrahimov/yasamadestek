@@ -24,7 +24,7 @@
 
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-1.png);"></div>
+                            style="background-image: url(assets/images/imagedata/banner.jpg);"></div>
                         <!-- /.image-layer -->
 
                         <div class="main-slider-shape-1"
@@ -50,7 +50,7 @@
 
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-2.png);"></div>
+                            style="background-image: url(assets/images/imagedata/banner.jpg);"></div>
                         <!-- /.image-layer -->
 
                         <div class="main-slider-shape-1"
@@ -76,7 +76,7 @@
 
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-3.png);"></div>
+                            style="background-image: url(assets/images/imagedata/banner.jpg);"></div>
                         <!-- /.image-layer -->
 
                         <div class="main-slider-shape-1"
@@ -129,7 +129,7 @@
                             <div class="about-one__img-box wow slideInLeft" data-wow-delay="100ms"
                                 data-wow-duration="2500ms">
                                 <div class="about-one__img">
-                                    <img src="assets/images/resources/about-one-img-1.jpg" alt="">
+                                    <img src="assets/images/imagedata/202302150728IMG_6969.jfif" alt="">
                                 </div>
                                 <div class="about-one__img-border"></div>
                                 <div class="about-one__curved-circle-box">
@@ -208,7 +208,7 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                         <div class="causes-one__single">
                             <div class="causes-one__img">
-                                <img src="assets/images/resources/causes-1-1.jpg" alt="">
+                                <img src="assets/images/imagedata/2022122609407.jpg" alt="">
                                 <div class="causes-one__cat">
                                     <p>Education</p>
                                 </div>
@@ -241,7 +241,7 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                         <div class="causes-one__single">
                             <div class="causes-one__img">
-                                <img src="assets/images/resources/causes-1-2.jpg" alt="">
+                                <img src="assets/images/imagedata/2022122609403.jpg" alt="">
                                 <div class="causes-one__cat">
                                     <p>Medical</p>
                                 </div>
@@ -274,7 +274,7 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="causes-one__single">
                             <div class="causes-one__img">
-                                <img src="assets/images/resources/causes-1-3.jpg" alt="">
+                                <img src="assets/images/imagedata/2022122609408.jpg" alt="">
                                 <div class="causes-one__cat">
                                     <p>Food</p>
                                 </div>
@@ -312,7 +312,7 @@
         <section class="become-volunteer-one">
             <div class="become-volunteer-one__bg-box">
                 <div class="become-volunteer-one__bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-                    style="background-image: url(assets/images/backgrounds/become-volunteer-one-bg.jpg);"></div>
+                    style="background-image: url(assets/images/imagedata/banner.jpg);"></div>
             </div>
             <div class="become-volunteer-one__shape-1"
                 style="background-image: url(assets/images/shapes/become-volunteer-shape-1.png);"></div>
@@ -376,7 +376,7 @@
                                     <!--Events One Single Start-->
                                     <div class="events-one__single">
                                         <div class="events-one__img">
-                                            <img src="assets/images/events/events-1-1.jpg" alt="">
+                                            <img src="assets/images/imagedata/2022122609403.jpg" alt="">
                                             <div class="events-one__date">
                                                 <p>23 May, 2022</p>
                                             </div>
@@ -397,7 +397,7 @@
                                     <!--Events One Single Start-->
                                     <div class="events-one__single">
                                         <div class="events-one__img">
-                                            <img src="assets/images/events/events-1-2.jpg" alt="">
+                                            <img src="assets/images/imagedata/2022122609407.jpg" alt="">
                                             <div class="events-one__date">
                                                 <p>23 May, 2022</p>
                                             </div>
@@ -417,7 +417,7 @@
                                     <!--Events One Single Start-->
                                     <div class="events-one__single">
                                         <div class="events-one__img">
-                                            <img src="assets/images/events/events-1-3.jpg" alt="">
+                                            <img src="assets/images/imagedata/2022122609408.jpg" alt="">
                                             <div class="events-one__date">
                                                 <p>23 May, 2022</p>
                                             </div>
@@ -437,7 +437,7 @@
                                     <!--Events One Single Start-->
                                     <div class="events-one__single">
                                         <div class="events-one__img">
-                                            <img src="assets/images/events/events-1-1.jpg" alt="">
+                                            <img src="assets/images/imagedata/2022122609403.jpg" alt="">
                                             <div class="events-one__date">
                                                 <p>23 May, 2022</p>
                                             </div>
@@ -458,7 +458,7 @@
                                     <!--Events One Single Start-->
                                     <div class="events-one__single">
                                         <div class="events-one__img">
-                                            <img src="assets/images/events/events-1-2.jpg" alt="">
+                                            <img src="assets/images/imagedata/2022122609407.jpg" alt="">
                                             <div class="events-one__date">
                                                 <p>23 May, 2022</p>
                                             </div>
@@ -478,7 +478,7 @@
                                     <!--Events One Single Start-->
                                     <div class="events-one__single">
                                         <div class="events-one__img">
-                                            <img src="assets/images/events/events-1-3.jpg" alt="">
+                                            <img src="assets/images/imagedata/2022122609408.jpg" alt="">
                                             <div class="events-one__date">
                                                 <p>23 May, 2022</p>
                                             </div>
@@ -494,6 +494,7 @@
                                     </div>
                                     <!--Events One Single End-->
                                 </div>
+                              
                             </div>
                         </div>
                     </div>
@@ -739,7 +740,7 @@
                                             style="background-image: url(assets/images/shapes/testimonial-one-shape-1.png);">
                                         </div>
                                         <div class="testimonial-one__client-img">
-                                            <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="">
+                                            <img src="assets/images/imagedata/20230131_141902.jpg" alt="">
                                         </div>
                                         <div class="testimonial-one__client-info">
                                             <h3 class="testimonial-one__client-name">Kevin martin</h3>
@@ -761,7 +762,7 @@
                                             style="background-image: url(assets/images/shapes/testimonial-one-shape-1.png);">
                                         </div>
                                         <div class="testimonial-one__client-img">
-                                            <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="">
+                                            <img src="assets/images/imagedata/20230131_141902.jpg" alt="">
                                         </div>
                                         <div class="testimonial-one__client-info">
                                             <h3 class="testimonial-one__client-name">Jessica brown</h3>
@@ -783,7 +784,7 @@
                                             style="background-image: url(assets/images/shapes/testimonial-one-shape-1.png);">
                                         </div>
                                         <div class="testimonial-one__client-img">
-                                            <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="">
+                                            <img src="assets/images/imagedata/20230131_141902.jpg" alt="">
                                         </div>
                                         <div class="testimonial-one__client-info">
                                             <h3 class="testimonial-one__client-name">Mike hardson</h3>
@@ -882,8 +883,8 @@
                     <ul class="list-unstyled gallery-one__list">
                         <li class="gallery-one__single wow fadeInUp" data-wow-delay="100ms">
                             <div class="gallery-one__img">
-                                <img src="assets/images/gallery/gallery-1-1.jpg" alt="">
-                                <a href="assets/images/gallery/gallery-1-1.jpg" class="img-popup"></a>
+                                <img src="assets/images/imagedata/u1.jpeg" alt="">
+                                <a href="assets/images/imagedata/u1.jpeg" class="img-popup"></a>
                                 <div class="gallery-one__content">
                                     <!-- /.img-popup -->
                                     <p class="gallery-one__sub-title">Charity</p>
@@ -893,8 +894,8 @@
                         </li>
                         <li class="gallery-one__single wow fadeInUp" data-wow-delay="200ms">
                             <div class="gallery-one__img">
-                                <img src="assets/images/gallery/gallery-1-2.jpg" alt="">
-                                <a href="assets/images/gallery/gallery-1-2.jpg" class="img-popup"></a>
+                                <img src="assets/images/imagedata/u2.jpeg" alt="">
+                                <a href="assets/images/imagedata/u2.jpeg" class="img-popup"></a>
                                 <div class="gallery-one__content">
                                     <!-- /.img-popup -->
                                     <p class="gallery-one__sub-title">Charity</p>
@@ -904,8 +905,8 @@
                         </li>
                         <li class="gallery-one__single wow fadeInUp" data-wow-delay="300ms">
                             <div class="gallery-one__img">
-                                <img src="assets/images/gallery/gallery-1-3.jpg" alt="">
-                                <a href="assets/images/gallery/gallery-1-3.jpg" class="img-popup"></a>
+                                <img src="assets/images/imagedata/u2.jpeg" alt="">
+                                <a href="assets/images/imagedata/u2.jpeg" class="img-popup"></a>
                                 <div class="gallery-one__content">
                                     <!-- /.img-popup -->
                                     <p class="gallery-one__sub-title">Charity</p>
@@ -915,8 +916,8 @@
                         </li>
                         <li class="gallery-one__single wow fadeInUp" data-wow-delay="400ms">
                             <div class="gallery-one__img">
-                                <img src="assets/images/gallery/gallery-1-4.jpg" alt="">
-                                <a href="assets/images/gallery/gallery-1-4.jpg" class="img-popup"></a>
+                                <img src="assets/images/imagedata/u1.jpeg" alt="">
+                                <a href="assets/images/imagedata/u1.jpeg" class="img-popup"></a>
                                 <div class="gallery-one__content">
                                     <!-- /.img-popup -->
                                     <p class="gallery-one__sub-title">Charity</p>
@@ -926,8 +927,8 @@
                         </li>
                         <li class="gallery-one__single wow fadeInUp" data-wow-delay="500ms">
                             <div class="gallery-one__img">
-                                <img src="assets/images/gallery/gallery-1-5.jpg" alt="">
-                                <a href="assets/images/gallery/gallery-1-5.jpg" class="img-popup"></a>
+                                <img src="assets/images/imagedata/u1.jpeg" alt="">
+                                <a href="assets/images/imagedata/u1.jpeg" class="img-popup"></a>
                                 <div class="gallery-one__content">
                                     <!-- /.img-popup -->
                                     <p class="gallery-one__sub-title">Charity</p>
@@ -1067,7 +1068,7 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                         <div class="news-one__single">
                             <div class="news-one__img">
-                                <img src="assets/images/blog/news-1-1.jpg" alt="">
+                                <img src="assets\images\imagedata\2022122609408.jpg" alt="">
                             </div>
                             <div class="news-one__content-box">
                                 <div class="news-one__content-inner">
@@ -1111,7 +1112,7 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                         <div class="news-one__single">
                             <div class="news-one__img">
-                                <img src="assets/images/blog/news-1-2.jpg" alt="">
+                                <img src="assets\images\imagedata\2022122609407.jpg" alt="">
                             </div>
                             <div class="news-one__content-box">
                                 <div class="news-one__content-inner">
@@ -1154,7 +1155,7 @@
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="news-one__single">
                             <div class="news-one__img">
-                                <img src="assets/images/blog/news-1-3.jpg" alt="">
+                                <img src="assets\images\imagedata\2022122609403.jpg" alt="">
                             </div>
                             <div class="news-one__content-box">
                                 <div class="news-one__content-inner">

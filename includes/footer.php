@@ -1,6 +1,6 @@
     <!--Site Footer Start-->
     <footer class="site-footer">
-            <div class="site-footer-bg" style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg);">
+            <div class="site-footer-bg">
             </div>
             <div class="site-footer__top">
                 <div class="container">
@@ -8,20 +8,20 @@
                         <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__about-logo">
-                                    <a href="index.html"><img src="assets/images/resources/footer-logo.png" alt=""></a>
+                                    <a href="index.html"><img src="assets/images/imagedata/Logo3.png" alt=""></a>
                                 </div>
                                 <div class="footer-widget__about-text-box">
                                     <p class="footer-widget__about-text">Nulla ultricies justo sit amet ante efficitur,
                                         eget pharetra augue efficitur. Vestibulum viverra, dolor sit amet ultricies.</p>
                                 </div>
-                                <div class="footer-widget__btn">
+                                <!-- <div class="footer-widget__btn">
                                     <a href="donate-now.html"> <span class="fa fa-heart"></span>İNDİ İANƏ ET</a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                             <div class="footer-widget__column footer-widget__links clearfix">
-                                <h3 class="footer-widget__title">Links</h3>
+                                <h3 class="footer-widget__title">Haqqımızda</h3>
                                 <ul class="footer-widget__links-list list-unstyled clearfix">
                                     <li><a href="about.html">About us</a></li>
                                     <li><a href="contact.html">Contact</a></li>
@@ -82,7 +82,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="site-footer__bottom-inner">
-                                <p class="site-footer__bottom-text">© All Copyright 2023 by <a href="#">Oxpins.com</a>
+                                <p class="site-footer__bottom-text">© All Right Reserved by<a href="#">Abasoft</a>
                                 </p>
                             </div>
                         </div>

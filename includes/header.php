@@ -135,14 +135,14 @@
                             </div>
                             <div class="main-menu__right-bottom">
                                 <div class="main-menu__main-menu-box">
-                                    <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+                                    <a href="index.php" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                     <ul class="main-menu__list">
                                         <li class="dropdown current megamenu">
-                                            <a href="index.html">Ana Səhifə </a>
+                                            <a href="index.php">Ana Səhifə </a>
                                           
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">Haqqımızda</a>
+                                            <a href="about.php">Haqqımızda</a>
                                             <!-- <ul>
                                                 <li><a href="about.html">About</a></li>
                                                 <li><a href="volunteer.html">Volunteer</a></li>
@@ -155,7 +155,7 @@
                                             </ul> -->
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">Bloq</a>
+                                            <a href="bloq.php">Bloq</a>
                                             <!-- <ul>
                                                 <li><a href="donation.html">Donation</a></li>
                                                 <li><a href="donations-list.html">Donation list</a></li>
@@ -165,7 +165,7 @@
                                             </ul> -->
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">Tədbirlər</a>
+                                            <a href="events.php">Tədbirlər</a>
                                             <!-- <ul>
                                                 <li><a href="events.html">Events</a></li>
                                                 <li><a href="events-carousel.html">Events carousel</a></li>
@@ -173,7 +173,7 @@
                                             </ul> -->
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">Vakansiya</a>
+                                            <a href="become-volunteer.php">Vakansiya</a>
                                             <!-- <ul>
                                                 <li><a href="news.html">News</a></li>
                                                 <li><a href="news-carousel.html">News carousel</a></li>
@@ -183,7 +183,7 @@
                                             </ul> -->
                                         </li>
                                         <li class="dropdown">
-                                            <a href="products.html">Shop</a>
+                                            <a href="products.php">Shop</a>
                                             <!-- <ul>
                                                 <li><a href="products.html">Shop</a></li>
                                                 <li><a href="product-details.html">Product details</a></li>
@@ -192,7 +192,7 @@
                                             </ul> -->
                                         </li>
                                         <li>
-                                            <a href="contact.html">İanə</a>
+                                            <a href="contact.php">Əlaqə</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -206,7 +206,7 @@
                                             <a href="cart.html" class="main-menu__cart icon-shopping-cart"></a>
                                         </div>
                                         <div class="main-menu__btn-box">
-                                            <a href="donate-now.html" class="main-menu__btn"> <span
+                                            <a href="donate-now.php" class="main-menu__btn"> <span
                                                     class="fa fa-heart"></span>İanə et</a>
                                         </div>
                                     </div>

@@ -81,8 +81,8 @@
                                 <span class="icon-phone-call"></span>
                             </div>
                             <div class="contact-one__content">
-                                <p class="contact-one__sub-title">Helpline</p>
-                                <h3 class="contact-one__number"><a href="tel:980009630">+ 98 (000) - 9630</a></h3>
+                                <p class="contact-one__sub-title">Əlaqə nömrəsi</p>
+                                <h3 class="contact-one__number"><a href="tel:+994505728410">+994 50 572 84 10</a></h3>
                             </div>
                         </li>
                         <li class="contact-one__single">
@@ -90,7 +90,7 @@
                                 <span class="icon-message"></span>
                             </div>
                             <div class="contact-one__content">
-                                <p class="contact-one__sub-title">Send email</p>
+                                <p class="contact-one__sub-title">Email adressi</p>
                                 <h3 class="contact-one__number"><a
                                         href="mailto:needhelp@company.com">needhelp@company.com</a></h3>
                             </div>
@@ -100,8 +100,8 @@
                                 <span class="icon-location"></span>
                             </div>
                             <div class="contact-one__content">
-                                <p class="contact-one__sub-title">380 St Kilda Road</p>
-                                <h3 class="contact-one__number">Melbourne, Australia</h3>
+                                <p class="contact-one__sub-title">Ünvan</p>
+                                <h3 class="contact-one__number">Bakı şəhəri, Etibar Qocayev 27</h3>
                             </div>
                         </li>
                     </ul>
@@ -112,9 +112,7 @@
 
         <!--Google Map Start-->
         <section class="google-map google-map-two">
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-                class="google-map__one" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3038.0751025213026!2d49.8431968!3d40.407187!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x403087f51b7155f7%3A0xcac4c08784292881!2s27%20Etibar%20Qocayev%2C%20Bak%C4%B1!5e0!3m2!1sen!2saz!4v1681467883716!5m2!1sen!2saz" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
         </section>
         <!--Google Map End-->
