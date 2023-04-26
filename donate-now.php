@@ -5,7 +5,7 @@
         </div><!-- /.stricky-header -->
 
         <!--Page Header Start-->
-        <section class="page-header">
+        <!-- <section class="page-header">
             <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
             </div>
             <div class="container">
@@ -18,24 +18,27 @@
                     <h2>Donate now</h2>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--Page Header End-->
-
         <!--Donate Now Start-->
         <section class="donate-now">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-8 col-lg-7">
+                     <div class="col-12 d-flex justify-content-center">
+                     <div class="col-xl-8 col-lg-8">
                         <div class="donate-now__left">
                             <div class="donate-now__enter-donation">
-                                <h3 class="donate-now__title">Enter your donation</h3>
-                                <div class="donate-now__enter-donation-input">
-                                    <select class="selectpicker">
-                                        <option>$</option>
-                                        <option>₤</option>
-                                        <option>¥</option>
-                                    </select>
-                                    <input type="text" name="donation-money" value=".00">
+                                <h3 class="donate-now__title">Bu kart hesabina iane et</h3>
+                                <div class="donate-now__cart">
+                                    <div><p class="donate-now__cart--name">Unibank</p></div>
+                                    <div><span class="donate-now__cart--cip"><img src="assets\images\imagedata\cipNew3.svg" alt=""></span></div>
+                                    <div class="coppied"><div class="coppied__box dis-none">Coppied</div></div>
+                                    <div class="donate-now__cart--num"><p class="donate-now__cart--para">5243754410273765</p> <a class="donate-now__cart--copy" href="#"><img src="assets\images\imagedata\copywhite.svg" alt=""></a></div>
+                                    <div class="donate-now__cart--box">
+                                     <span class="donate-now__cart--valid">05/26</span>
+                                      <div class="donate-now__cart--master">
+                                        <img src="assets\images\imagedata\Mastercard.svg" alt=""></div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="donate-now__personal-info-box">
@@ -136,70 +139,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-5">
-                        <div class="donate-now__right">
-                            <div class="causes-one__single">
-                                <div class="causes-one__img">
-                                    <img src="assets/images/resources/causes-1-1.jpg" alt="">
-                                    <div class="causes-one__cat">
-                                        <p>Education</p>
-                                    </div>
-                                </div>
-                                <div class="causes-one__content">
-                                    <h3 class="causes-one__title"><a href="donation-details.html">Let’s education for
-                                            children get good
-                                            life</a>
-                                    </h3>
-                                    <p class="causes-one__text">There are many of lorem, but majori have
-                                        suffered alteration in some form.</p>
-                                    <div class="causes-one__progress">
-                                        <div class="causes-one__progress-shape"
-                                            style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                        </div>
-                                        <div class="bar">
-                                            <div class="bar-inner count-bar" data-percent="36%">
-                                                <div class="count-text">36%</div>
-                                            </div>
-                                        </div>
-                                        <div class="causes-one__goals">
-                                            <p><span>$25,270</span> Raised</p>
-                                            <p><span>$30,000</span> Goal</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="donation-details__organizer">
-                                <div class="sidebar-shape-1"
-                                    style="background-image: url(assets/images/shapes/sidebar-shape-1.png);"></div>
-                                <div class="donation-details__organizer-img">
-                                    <img src="assets/images/resources/donation-details-organizer-img.jpg" alt="">
-                                </div>
-                                <div class="donation-details__organizer-content">
-                                    <p class="donation-details__organizer-date">Created 20 april, 2022</p>
-                                    <p class="donation-details__organizer-title">Organizer:</p>
-                                    <p class="donation-details__organizer-name">Jessica smith</p>
-                                    <ul class="list-unstyled donation-details__organizer-list">
-                                        <li>
-                                            <div class="icon">
-                                                <span class="fas fa-tag"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p>Education</p>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="icon">
-                                                <span class="fas fa-map-marker-alt"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p>Westwood, Canada</p>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                     </div>
                 </div>
             </div>
         </section>

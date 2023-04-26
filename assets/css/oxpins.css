@@ -416,8 +416,32 @@ ul {
   border-radius: 50%;
   transition: all 0.4s ease;
 }
+.scroll-to-top-whatsapp {
+  cursor: pointer;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  background: var(--oxpins-primary);
+  position: fixed;
+  bottom: 100px;
+  right: 40px;
+  z-index: 99;
+  display: flex;
+   justify-content: center;
+   align-items: center;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  /* display: none; */
+  border-radius: 50%;
+  transition: all 0.4s ease;
+}
 
 .scroll-to-top i {
+  color: var(--oxpins-black);
+  font-size: 18px;
+  line-height: 50px;
+}
+.scroll-to-top-whatsapp i {
   color: var(--oxpins-black);
   font-size: 18px;
   line-height: 50px;
@@ -426,10 +450,16 @@ ul {
 .scroll-to-top:hover {
   background-color: var(--oxpins-base);
 }
+.scroll-to-top-whatsapp:hover {
+  background-color: var(--oxpins-base);
+}
 
-.scroll-to-top:hover i {
+/* .scroll-to-top:hover i {
   color: #fff;
 }
+.scroll-to-top-whatsapp:hover  {
+  color: #fff;
+} */
 
 
 /*--------------------------------------------------------------
@@ -502,7 +532,7 @@ ul {
 
 .main-menu__right {
   display: block;
-  width: 91%;
+  width: 100%;
 }
 
 .main-menu__right-top {
@@ -3618,7 +3648,7 @@ body.locked .page-wrapper {
   overflow: hidden;
   border-radius: var(--oxpins-bdr-radius);
   z-index: 1;
-  height: 13rem;
+  height: 18rem;
 }
 
 .events-one__img:before {
@@ -9058,12 +9088,15 @@ body.locked .page-wrapper {
 
 .event-details__img-single {
   position: relative;
+  height: 25rem;
   display: block;
   margin-bottom: 30px;
 }
 
 .event-details__img-single img {
   width: 100%;
+  height: 100%;
+  object-fit: fill;
   border-radius: var(--oxpins-bdr-radius);
 }
 
@@ -10254,12 +10287,8 @@ body.locked .page-wrapper {
 }
 
 .become-volunteer__call {
-  position: relative;
   display: flex;
   align-items: center;
-  border-top: 1px solid var(--oxpins-bdr-color);
-  padding-top: 30px;
-  margin-top: 50px;
 }
 
 .become-volunteer__call-icon {
@@ -10474,6 +10503,7 @@ body.locked .page-wrapper {
   overflow: hidden;
   border-radius: var(--oxpins-bdr-radius);
   z-index: 1;
+  height: 25rem;
 }
 
 .gallery-page__img:before {
@@ -10516,6 +10546,8 @@ body.locked .page-wrapper {
 
 .gallery-page__img img {
   width: 100%;
+   height: 100%;
+  object-fit: fill;
   border-radius: var(--oxpins-bdr-radius);
 }
 
@@ -12913,6 +12945,144 @@ body.boxed-wrapper {
   font-weight: 500;
   margin-left: 39px;
 }
+
+
+.donate-now__cart{
+  width: 30rem;
+  height: 15rem;
+  border-radius: 10px;
+  position: relative;
+  padding: 10px 30px;
+  background-color:var(--oxpins-base);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+
+.donate-now__cart--num{
+  display: flex;
+  margin-top: 10px;
+}
+
+
+
+.donate-now__cart--para{
+  font-size: 26px;
+  color: white;
+  display: inline-block;
+}
+
+
+.donate-now__cart--master{
+  width: 5rem;
+    height: 3.5rem;
+}
+.donate-now__cart--master img{
+  width: 100%;
+}
+
+
+.donate-now__cart--box{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.donate-now__cart--valid{
+  color: white;
+}
+
+
+.donate-now__cart--copy{
+  display: inline-block;
+    margin-left: 20px;
+}
+.donate-now__cart--copy img{
+  backface-visibility: hidden;
+  cursor: pointer;
+}
+
+
+.donate-now__cart--name{
+  color: white;
+}
+
+
+.donate-now__cart--cip img{
+  border-radius: 5px;
+}
+
+
+.whatsapp-icon{
+   display: inline-block;
+   width: 50px;
+   height: 50px;
+   background: var(--oxpins-primary);
+   position: absolute;
+   right: 40px;
+   bottom: 100px;
+}
+
+.whatsapp-icon img{
+  width: 100%;
+}
+
+.donate-now__cart--copy:hover{
+  transform: translateY(-3px);
+}
+
+.donate-now__cart--copy:active{
+  transform: translateY(-1px);
+}
+
+
+.coppied{
+  position: relative;
+   width: 100%;
+  display: block;
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+.coppied__box{
+  background-color: black;
+    width: 3.5rem;
+    text-align: center;
+    color: white;
+    padding: 0px 4px;
+    border-radius: 5px;
+    font-size: 11px;
+    position: absolute;
+    right: 70px;
+    bottom: -19px;
+    transition: ease .3s;
+}
+
+.coppied__box::after{
+  content: "\A";
+  border-style: solid;
+  transform: rotate(-8deg);
+  border-width: 10px 10px 8px 1px;
+  border-color: transparent transparent black transparent;
+  position: absolute;
+  left: -15px;
+  /* background-color: black; */
+  bottom: -1px;
+  left: -1px;
+  
+}
+
+
+.dis-none{
+  display: none;
+}
+
+
+
 
 
 

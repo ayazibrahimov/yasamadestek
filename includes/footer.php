@@ -21,25 +21,26 @@
                         </div>
                         <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                             <div class="footer-widget__column footer-widget__links clearfix">
-                                <h3 class="footer-widget__title">Haqqımızda</h3>
+                                <h3 class="footer-widget__title">lINK1</h3>
                                 <ul class="footer-widget__links-list list-unstyled clearfix">
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="news.html">Latest News</a></li>
-                                    <li><a href="event-details.html">Recent Events</a></li>
-                                    <li><a href="donation.html">Donations</a></li>
+                                    <li><a href="index.php">Ana səhifə</a></li>
+                                    <li><a href="about.php">Haqqımızda</a></li>
+                                    <li><a href="bloq.php">Bloq</a></li>
+                                    <li><a href="events.php">Tədbitlər</a></li>
+                                                    <!-- <li><a href="event-details.html">Recent Events</a></li>
+                                    <li><a href="donation.html">Donations</a></li> -->
                                 </ul>
                             </div>
                         </div>
                         <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                             <div class="footer-widget__column footer-widget__non-profit clearfix">
-                                <h3 class="footer-widget__title">Non profit</h3>
+                                <h3 class="footer-widget__title">Link2</h3>
                                 <ul class="footer-widget__non-profit-list list-unstyled clearfix">
-                                    <li><a href="donation-details.html">Differently Abled Kids</a></li>
-                                    <li><a href="donation-details.html">Help Child Cancer</a></li>
-                                    <li><a href="donation-details.html">Clean Pure Water</a></li>
-                                    <li><a href="donation-details.html">Give them Education</a></li>
-                                    <li><a href="donation-details.html">Start a Fundraising</a></li>
+                                    <li><a href="become-volunteer.php">Vakansiya</a></li>
+                                    <li><a href="products.php">Shop</a></li>
+                                    <li><a href="contact.php">Əlaqə</a></li>
+                                    <li><a href="donate-now.php">İanə et</a></li>
+                                    <!-- <li><a href="donation-details.html">Start a Fundraising</a></li> -->
                                 </ul>
                             </div>
                         </div>
@@ -61,7 +62,8 @@
                                             <i class="fas fa-phone-alt"></i>
                                         </div>
                                         <div class="text">
-                                            <p><a href="tel:+994 505728410">+994 50 572 84 10</a></p>
+                                            <p><a href="tel:+994 504558790">+994 050 455 87 90</a></p>
+                                            <p><a href="tel:+994 514442751">+994 051 444 27 51</a></p>
                                         </div>
                                     </li>
                                 </ul>
@@ -70,7 +72,8 @@
                                     <a href="https://www.facebook.com/yasamadestek?mibextid=ZbWKwL"><i class="fab fa-facebook"></i></a>
                                     <a href="https://www.youtube.com/@yasamadestek1191"><i class="fab fa-youtube"></i></a>
                                     <a href="https://www.instagram.com/yasama_destek/?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                                    <a href="https://www.tiktok.com/@yasamadestek?_t=8bcjNfPyEWw&_r=1"><i class="fab fa-tiktok"></i></a>
+                                    <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFenvLvXksfBwAAAYeZgYkAmVEBjWKf3q8eUdtgh5RQI7o68t3n8sdTHeXwme2ueY_Ibl4LzJk5sFO4VG_SwoOKrLp7YTiCzjOG4tBB53ZqeV7EX66BqRWVN4YalXZfKskMYBE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felgul-h%25C3%25BCseynquliyeva-3869a3216"><i class="fab fa-linkedin"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -153,6 +156,10 @@
     <!-- /.search-popup -->
 
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="icon-up-arrow"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank" class="scroll-to-target scroll-to-top-whatsapp"><img src="assets\images\imagedata\Vectorwp1.png" alt=""></a>
+    
+  
+
 
 
     <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
@@ -185,6 +192,7 @@
 
     <!-- template js -->
     <script src="assets/js/oxpins.js"></script>
+    <script src="assets/js/card.js"></script>
 </body>
 
 </html>

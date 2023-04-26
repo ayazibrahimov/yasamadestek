@@ -5,20 +5,15 @@
         </div><!-- /.stricky-header -->
 
         <!--Page Header Start-->
-        <section class="page-header">
+        <!-- <section class="page-header">
             <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <!-- <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
-                        <li><span>/</span></li>
-                        <li class="active">Contact</li>
-                    </ul> -->
                     <h2>Bizimlə Əlaqə</h2>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--Page Header End-->
 
         <!--Contact Three Start-->

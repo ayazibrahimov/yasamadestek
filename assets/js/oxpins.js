@@ -916,6 +916,14 @@
         $(".scroll-to-top").fadeOut(500);
       }
     }
+    if ($(".scroll-to-top-whatsapp").length) {
+      var strickyScrollPos = 100;
+      if ($(window).scrollTop() > strickyScrollPos) {
+        $(".scroll-to-top-whatsapp").fadeIn(500);
+      } else if ($(this).scrollTop() <= strickyScrollPos) {
+        $(".scroll-to-top-whatsapp").fadeOut(500);
+      }
+    }
 
     OnePageMenuScroll();
   });

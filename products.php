@@ -5,7 +5,7 @@
         </div><!-- /.stricky-header -->
 
         <!--Page Header Start-->
-        <section class="page-header">
+        <!-- <section class="page-header">
             <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
             </div>
             <div class="container">
@@ -18,7 +18,7 @@
                     <h2>Products</h2>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--Page Header End-->
 
         <!--Page Header End-->

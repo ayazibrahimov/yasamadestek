@@ -30,7 +30,7 @@
                         <!--Events One Single Start-->
                         <div class="events-one__single">
                             <div class="events-one__img">
-                                <img src="assets/images/events/events-page-1-1.jpg" alt="">
+                                <img src="assets\images\imagedata\2022122609403.jpg" alt="">
                                 <div class="events-one__date">
                                     <p>23 May, 2022</p>
                                 </div>
@@ -39,7 +39,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>New York</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">Play for the
+                                    <h3 class="events-one__title"><a href="event-details.php">Play for the
                                             world
                                             with us</a></h3>
                                 </div>
@@ -51,7 +51,7 @@
                         <!--Events One Single Start-->
                         <div class="events-one__single">
                             <div class="events-one__img">
-                                <img src="assets/images/events/events-page-1-2.jpg" alt="">
+                                <img src="assets\images\imagedata\2022122609403.jpg" alt="">
                                 <div class="events-one__date">
                                     <p>23 May, 2022</p>
                                 </div>
@@ -60,7 +60,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>New York</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">Contrary to
+                                    <h3 class="events-one__title"><a href="event-details.php">Contrary to
                                             popular belief</a></h3>
                                 </div>
                             </div>
@@ -71,7 +71,7 @@
                         <!--Events One Single Start-->
                         <div class="events-one__single">
                             <div class="events-one__img">
-                                <img src="assets/images/events/events-page-1-3.jpg" alt="">
+                                <img src="assets\images\imagedata\2022122609403.jpg" alt="">
                                 <div class="events-one__date">
                                     <p>23 May, 2022</p>
                                 </div>
@@ -80,7 +80,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>New York</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">There are
+                                    <h3 class="events-one__title"><a href="event-details.php">There are
                                             many variations of</a></h3>
                                 </div>
                             </div>
@@ -91,7 +91,7 @@
                         <!--Events One Single Start-->
                         <div class="events-one__single">
                             <div class="events-one__img">
-                                <img src="assets/images/events/events-page-1-4.jpg" alt="">
+                                <img src="assets\images\imagedata\2022122609403.jpg" alt="">
                                 <div class="events-one__date">
                                     <p>23 May, 2022</p>
                                 </div>
@@ -100,7 +100,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>New York</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">Play for the
+                                    <h3 class="events-one__title"><a href="event-details.php">Play for the
                                             world
                                             with us</a></h3>
                                 </div>
@@ -112,7 +112,7 @@
                         <!--Events One Single Start-->
                         <div class="events-one__single">
                             <div class="events-one__img">
-                                <img src="assets/images/events/events-page-1-5.jpg" alt="">
+                                <img src="assets\images\imagedata\2022122609403.jpg" alt="">
                                 <div class="events-one__date">
                                     <p>23 May, 2022</p>
                                 </div>
@@ -121,7 +121,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>New York</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">Contrary to
+                                    <h3 class="events-one__title"><a href="event-details.php">Contrary to
                                             popular belief</a></h3>
                                 </div>
                             </div>
@@ -132,7 +132,7 @@
                         <!--Events One Single Start-->
                         <div class="events-one__single">
                             <div class="events-one__img">
-                                <img src="assets/images/events/events-page-1-6.jpg" alt="">
+                                <img src="assets\images\imagedata\2022122609403.jpg" alt="">
                                 <div class="events-one__date">
                                     <p>23 May, 2022</p>
                                 </div>
@@ -141,7 +141,7 @@
                                         <li><i class="fas fa-clock"></i>8:00pm</li>
                                         <li><i class="fas fa-map-marker-alt"></i>New York</li>
                                     </ul>
-                                    <h3 class="events-one__title"><a href="event-details.html">There are
+                                    <h3 class="events-one__title"><a href="event-details.php">There are
                                             many variations of</a></h3>
                                 </div>
                             </div>

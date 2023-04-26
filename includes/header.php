@@ -75,7 +75,7 @@
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
                             <div class="main-menu__logo">
-                                <a href="index.html"><img src="assets/images/imagedata/Logo2.jpg" alt=""></a>
+                                <a href="index.php"><img src="assets/images/imagedata/mainLogo.png" alt=""></a>
                             </div>
                         </div>
                         <div class="main-menu__right">
@@ -100,8 +100,9 @@
                                                     <span class="icon-phone-call"></span>
                                                 </div>
                                                 <div class="content">
-                                                    <p>Əlaqə nömrəsi</p>
-                                                    <h5><a href="tel:980009630">+994 50 572 84 10</a></h5>
+                                                    <!-- <p>Əlaqə nömrəsi</p> -->
+                                                    <h5><a href="tel:+994504558790">050 455 87 90</a></h5>
+                                                    <h5><a href="tel:+994514442751">051 444 27 51</a></h5>
                                                 </div>
                                             </li>
                                             <li>
@@ -126,10 +127,11 @@
                                         </ul>
                                     </div>
                                     <div class="main-menu__right-top-social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.facebook.com/yasamadestek?mibextid=ZbWKwL"><i class="fab fa-facebook"></i></a>
+                                    <a href="https://www.youtube.com/@yasamadestek1191"><i class="fab fa-youtube"></i></a>
+                                    <a href="https://www.instagram.com/yasama_destek/?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.tiktok.com/@yasamadestek?_t=8bcjNfPyEWw&_r=1"><i class="fab fa-tiktok"></i></a>
+                                    <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFenvLvXksfBwAAAYeZgYkAmVEBjWKf3q8eUdtgh5RQI7o68t3n8sdTHeXwme2ueY_Ibl4LzJk5sFO4VG_SwoOKrLp7YTiCzjOG4tBB53ZqeV7EX66BqRWVN4YalXZfKskMYBE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felgul-h%25C3%25BCseynquliyeva-3869a3216"><i class="fab fa-linkedin"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -187,7 +189,7 @@
                                             <!-- <ul>
                                                 <li><a href="products.html">Shop</a></li>
                                                 <li><a href="product-details.html">Product details</a></li>
-                                                <li><a href="cart.html">Cart</a></li>
+                                                <li><a href="cart.php">Cart</a></li>
                                                 <li><a href="checkout.html">Checkout</a></li>
                                             </ul> -->
                                         </li>
@@ -198,12 +200,12 @@
                                 </div>
                                 <div class="main-menu__main-menu-content-box">
                                     <div class="main-menu__search-cat-btn-box">
-                                        <div class="main-menu__search-box">
+                                        <!-- <div class="main-menu__search-box">
                                             <a href="#"
                                                 class="main-menu__search search-toggler icon-magnifying-glass"></a>
-                                        </div>
+                                        </div> -->
                                         <div class="main-menu__cat-box">
-                                            <a href="cart.html" class="main-menu__cart icon-shopping-cart"></a>
+                                            <a href="cart.php" class="main-menu__cart icon-shopping-cart"></a>
                                         </div>
                                         <div class="main-menu__btn-box">
                                             <a href="donate-now.php" class="main-menu__btn"> <span

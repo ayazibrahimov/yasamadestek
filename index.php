@@ -40,7 +40,7 @@
                                         <p class="main-slider__sub-title">Always donate for childrens</p>
                                         <h2 class="main-slider__title">Lend a Helping Hand to Those in Need</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="about.html" class="thm-btn main-slider__btn"> Discover more</a>
+                                            <a href="" class="thm-btn main-slider__btn"> Discover more</a>
                                         </div>
                                     </div>
                                 </div>
@@ -160,10 +160,7 @@
                                 <span class="section-title__tagline">Welcome to oxpins charity</span>
                                 <h2 class="section-title__title">Bizə qoşul və uşaqlara ianə et </h2>
                             </div>
-                            <p class="about-one__text">We help companies develop powerful corporate social
-                                responsibility, grantmaking, and employee engagement strategies. Our impact is about
-                                more than moving money to where it’s needed most it’s also about helping nonprofits
-                                access information and ideas that will help them listen, learn, and grow. </p>
+                            <p class="about-one__text">Yaşama dəstək 2017-ci ildə xeyriyyəçi Abil Hüseynquliyev və Elgül Hüseynquliyeva tərəfindən yaradılmışdır. Yaranma səbəbi Elgül xanımın üç çarəsiz, nadir xəstəlikdən əziyyət çəkən insanlarla qarşılaşması olub.  Bunlardan biri Epidermolizis Bulloza(Kəpənək) çox nadir vəacınacaqlı dəri xəstəliyidir. Qohum evliliyindən yaranan xəstəlikdir. Bu xəstəlikdən əziyyət çəkən insanlar yanaraq həyat yaşayır. Tam müalicəsi olmasa da rahat yaşamaları üçün müalicələri var. Lakin bu müalicələr çox böyük vəsait tələb edir. Xəstəlik çox böyük fəsadlar verir. Əllər bağlanır, boğazlarından yemək keçmir. Xüsusi plastrlar, kremlərlə rahat yaşaya bilirlər. Plastr və kremlər byük vəsait tələb etdiyi üçün ailələr həmin müalicəni övladlarına edə bilmirlər.  </p>
                             <div class="about-one__fund">
                                 <p class="about-one__fund-text">Helped fund <span>24,537</span> Projects in
                                     <span>24</span> Countries, Benefiting over <br> <span>8.2</span> Million people.</p>
@@ -188,7 +185,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <a href="about.html" class="thm-btn about-one__btn">Discover More</a>
+                            <a href="about.php" class="thm-btn about-one__btn">DAHA ƏTRAFLI</a>
                         </div>
                     </div>
                 </div>
@@ -219,20 +216,7 @@
                                 </h3>
                                 <p class="causes-one__text">There are many of lorem, but majori have
                                     suffered alteration in some form.</p>
-                                <div class="causes-one__progress">
-                                    <div class="causes-one__progress-shape"
-                                        style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                    </div>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="36%">
-                                            <div class="count-text">36%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-one__goals">
-                                        <p><span>$25,270</span> Raised</p>
-                                        <p><span>$30,000</span> Goal</p>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -252,20 +236,7 @@
                                 </h3>
                                 <p class="causes-one__text">There are many of lorem, but majori have
                                     suffered alteration in some form.</p>
-                                <div class="causes-one__progress">
-                                    <div class="causes-one__progress-shape"
-                                        style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                    </div>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="36%">
-                                            <div class="count-text">36%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-one__goals">
-                                        <p><span>$25,270</span> Raised</p>
-                                        <p><span>$30,000</span> Goal</p>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -285,20 +256,7 @@
                                 </h3>
                                 <p class="causes-one__text">There are many of lorem, but majori have
                                     suffered alteration in some form.</p>
-                                <div class="causes-one__progress">
-                                    <div class="causes-one__progress-shape"
-                                        style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                    </div>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="36%">
-                                            <div class="count-text">36%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-one__goals">
-                                        <p><span>$25,270</span> Raised</p>
-                                        <p><span>$30,000</span> Goal</p>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -605,75 +563,7 @@
         <!--Feature One End-->
 
         <!--Brand One Start-->
-        <section class="brand-one">
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
-                            "0": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 2
-                            },
-                            "375": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 2
-                            },
-                            "575": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 3
-                            },
-                            "767": {
-                                "spaceBetween": 50,
-                                "slidesPerView": 4
-                            },
-                            "991": {
-                                "spaceBetween": 50,
-                                "slidesPerView": 5
-                            },
-                            "1199": {
-                                "spaceBetween": 100,
-                                "slidesPerView": 6
-                            }
-                        }}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-6.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-6.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                    </div>
-                </div>
-            </div>
-        </section>
+        
         <!--Brand One End-->
 
         <!--Testimonial One Start-->
@@ -696,18 +586,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="testimonial-one__right">
-                            <div class="testimonial-one__img-1 zoom-fade">
-                                <img src="assets/images/testimonial/testimonial-img-1.jpg" alt="">
-                            </div>
-                            <div class="testimonial-one__img-1 testimonial-one__img-2 zoom-fade">
-                                <img src="assets/images/testimonial/testimonial-img-2.jpg" alt="">
-                            </div>
-                            <div class="testimonial-one__img-1 testimonial-one__img-3 zoom-fade">
-                                <img src="assets/images/testimonial/testimonial-img-3.jpg" alt="">
-                            </div>
-                            <div class="testimonial-one__img-1 testimonial-one__img-4 zoom-fade">
-                                <img src="assets/images/testimonial/testimonial-img-4.jpg" alt="">
-                            </div>
+                            
                             <div class="testimonial-one__carousel owl-carousel owl-theme thm-owl__carousel"
                                 data-owl-options='{
                                 "loop": true,
@@ -881,39 +760,6 @@
             <div class="gallery-one__bottom">
                 <div class="gallery-one__container">
                     <ul class="list-unstyled gallery-one__list">
-                        <li class="gallery-one__single wow fadeInUp" data-wow-delay="100ms">
-                            <div class="gallery-one__img">
-                                <img src="assets/images/imagedata/u1.jpeg" alt="">
-                                <a href="assets/images/imagedata/u1.jpeg" class="img-popup"></a>
-                                <div class="gallery-one__content">
-                                    <!-- /.img-popup -->
-                                    <p class="gallery-one__sub-title">Charity</p>
-                                    <h5 class="gallery-one__title"><a href="gallery.html">Education</a></h5>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="gallery-one__single wow fadeInUp" data-wow-delay="200ms">
-                            <div class="gallery-one__img">
-                                <img src="assets/images/imagedata/u2.jpeg" alt="">
-                                <a href="assets/images/imagedata/u2.jpeg" class="img-popup"></a>
-                                <div class="gallery-one__content">
-                                    <!-- /.img-popup -->
-                                    <p class="gallery-one__sub-title">Charity</p>
-                                    <h5 class="gallery-one__title"><a href="gallery.html">Education</a></h5>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="gallery-one__single wow fadeInUp" data-wow-delay="300ms">
-                            <div class="gallery-one__img">
-                                <img src="assets/images/imagedata/u2.jpeg" alt="">
-                                <a href="assets/images/imagedata/u2.jpeg" class="img-popup"></a>
-                                <div class="gallery-one__content">
-                                    <!-- /.img-popup -->
-                                    <p class="gallery-one__sub-title">Charity</p>
-                                    <h5 class="gallery-one__title"><a href="gallery.html">Education</a></h5>
-                                </div>
-                            </div>
-                        </li>
                         <li class="gallery-one__single wow fadeInUp" data-wow-delay="400ms">
                             <div class="gallery-one__img">
                                 <img src="assets/images/imagedata/u1.jpeg" alt="">
@@ -926,6 +772,39 @@
                             </div>
                         </li>
                         <li class="gallery-one__single wow fadeInUp" data-wow-delay="500ms">
+                            <div class="gallery-one__img">
+                                <img src="assets/images/imagedata/u1.jpeg" alt="">
+                                <a href="assets/images/imagedata/u1.jpeg" class="img-popup"></a>
+                                <div class="gallery-one__content">
+                                    <!-- /.img-popup -->
+                                    <p class="gallery-one__sub-title">Charity</p>
+                                    <h5 class="gallery-one__title"><a href="gallery.html">Education</a></h5>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="gallery-one__single wow fadeInUp" data-wow-delay="600ms">
+                            <div class="gallery-one__img">
+                                <img src="assets/images/imagedata/u1.jpeg" alt="">
+                                <a href="assets/images/imagedata/u1.jpeg" class="img-popup"></a>
+                                <div class="gallery-one__content">
+                                    <!-- /.img-popup -->
+                                    <p class="gallery-one__sub-title">Charity</p>
+                                    <h5 class="gallery-one__title"><a href="gallery.html">Education</a></h5>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="gallery-one__single wow fadeInUp" data-wow-delay="700ms">
+                            <div class="gallery-one__img">
+                                <img src="assets/images/imagedata/u1.jpeg" alt="">
+                                <a href="assets/images/imagedata/u1.jpeg" class="img-popup"></a>
+                                <div class="gallery-one__content">
+                                    <!-- /.img-popup -->
+                                    <p class="gallery-one__sub-title">Charity</p>
+                                    <h5 class="gallery-one__title"><a href="gallery.html">Education</a></h5>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="gallery-one__single wow fadeInUp" data-wow-delay="800ms">
                             <div class="gallery-one__img">
                                 <img src="assets/images/imagedata/u1.jpeg" alt="">
                                 <a href="assets/images/imagedata/u1.jpeg" class="img-popup"></a>
@@ -1074,19 +953,19 @@
                                 <div class="news-one__content-inner">
                                     <div class="news-one__content">
                                         <ul class="list-unstyled news-one__meta">
-                                            <li><a href="news-details.html"><i class="far fa-user-circle"></i> Admin</a>
+                                            <li><a href="news-details.php"><i class="far fa-user-circle"></i> Admin</a>
                                             </li>
-                                            <li><a href="news-details.html"><i class="fas fa-comments"></i> 2
+                                            <li><a href="news-details.php"><i class="fas fa-comments"></i> 2
                                                     Comments</a>
                                             </li>
                                         </ul>
-                                        <h3 class="news-one__title"><a href="news-details.html">How does the
+                                        <h3 class="news-one__title"><a href="news-details.php">How does the
                                                 malnutrition
                                                 affect children?</a></h3>
                                     </div>
                                     <div class="news-one__bottom">
                                         <div class="news-one__read-more">
-                                            <a href="news-details.html"> <span class="icon-right-arrow"></span> Read
+                                            <a href="news-details.php"> <span class="icon-right-arrow"></span> Read
                                                 More</a>
                                         </div>
                                         <div class="news-one__share">
@@ -1118,18 +997,18 @@
                                 <div class="news-one__content-inner">
                                     <div class="news-one__content">
                                         <ul class="list-unstyled news-one__meta">
-                                            <li><a href="news-details.html"><i class="far fa-user-circle"></i> Admin</a>
+                                            <li><a href="news-details.php"><i class="far fa-user-circle"></i> Admin</a>
                                             </li>
-                                            <li><a href="news-details.html"><i class="fas fa-comments"></i> 2
+                                            <li><a href="news-details.php"><i class="fas fa-comments"></i> 2
                                                     Comments</a>
                                             </li>
                                         </ul>
-                                        <h3 class="news-one__title"><a href="news-details.html">Lorem Ipsum has been the
+                                        <h3 class="news-one__title"><a href="news-details.php">Lorem Ipsum has been the
                                                 industry's standard</a></h3>
                                     </div>
                                     <div class="news-one__bottom">
                                         <div class="news-one__read-more">
-                                            <a href="news-details.html"> <span class="icon-right-arrow"></span> Read
+                                            <a href="news-details.php"> <span class="icon-right-arrow"></span> Read
                                                 More</a>
                                         </div>
                                         <div class="news-one__share">
@@ -1161,18 +1040,18 @@
                                 <div class="news-one__content-inner">
                                     <div class="news-one__content">
                                         <ul class="list-unstyled news-one__meta">
-                                            <li><a href="news-details.html"><i class="far fa-user-circle"></i> Admin</a>
+                                            <li><a href="news-details.php"><i class="far fa-user-circle"></i> Admin</a>
                                             </li>
-                                            <li><a href="news-details.html"><i class="fas fa-comments"></i> 2
+                                            <li><a href="news-details.php"><i class="fas fa-comments"></i> 2
                                                     Comments</a>
                                             </li>
                                         </ul>
-                                        <h3 class="news-one__title"><a href="news-details.html">There are many
+                                        <h3 class="news-one__title"><a href="news-details.php">There are many
                                                 variations of passages of Lorem</a></h3>
                                     </div>
                                     <div class="news-one__bottom">
                                         <div class="news-one__read-more">
-                                            <a href="news-details.html"> <span class="icon-right-arrow"></span> Read
+                                            <a href="news-details.php"> <span class="icon-right-arrow"></span> Read
                                                 More</a>
                                         </div>
                                         <div class="news-one__share">

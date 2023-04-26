@@ -206,6 +206,12 @@
 
 
 
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .main-menu__left{
+        width: 25%;
+    }
+}
+
 
 
 
@@ -1046,6 +1052,10 @@
 
 
 
+    .coppied__box{
+        right: -10px;
+        bottom: -5px;
+    }
 
 
 
@@ -1468,7 +1478,7 @@
     }
 
     .main-menu__left {
-        width: auto;
+        width: 30%;
         margin-right: 0;
         float: left;
     }
@@ -1550,6 +1560,24 @@
     .main-menu-three__search-cat {
         display: none;
     }
+
+    .donate-now__cart{
+        height: 13rem;
+    }
+
+    .donate-now__cart--para {
+        font-size: 22px;
+    }
+
+
+
+    .donate-now__cart{
+        width: 22rem;
+    }
+
+
+
+
 
 }
 
@@ -1662,7 +1690,7 @@
 
 
 @media only screen and (min-width: 1400px) and (max-width: 1600px) {
-    .main-menu__right-top-social {
+    .main-menu__volunteers {
         display: none;
     }
 
@@ -1676,7 +1704,7 @@
 
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-    .main-menu__right-top-social {
+    .main-menu__volunteers {
         display: none;
     }
 

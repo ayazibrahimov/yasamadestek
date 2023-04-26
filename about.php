@@ -5,7 +5,7 @@
         </div><!-- /.stricky-header -->
 
         <!--Page Header Start-->
-        <section class="page-header">
+        <!-- <section class="page-header">
             <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
             </div>
             <div class="container">
@@ -18,7 +18,7 @@
                     <h2>Haqqımızda</h2>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--Page Header End-->
 
         <!--About Four Start-->
@@ -31,13 +31,8 @@
                                 <span class="section-title__tagline">Join us and start donating</span>
                                 <h2 class="section-title__title">Ümumi təşkilat <br> haqqında məlumat</h2>
                             </div>
-                            <p class="about-three__text-1">With schools closed in NSW and Victoria, and childcare
-                                restricted to authorized workers in Victoria, many children will be at home for the next
-                                few weeks. And with their usual creative and physical outlets – libraries, sports,
-                                playgroups, and other public places.</p>
-                            <p class="about-three__text-2">Use Zoom, Facetime, or Skype to keep in touch with family and
-                                friends, both local and overseas to stay social, and maintain friendships and
-                                relationships when you can’t be together.</p>
+                            <p class="about-three__text-1">Hüseynquliyeva Elgül Zülfüqar qızı 1984-cü ildə Şəmkir rayonu Təzəkənd kəndində anadan olub. 2003-cü ildə Azərbaycan Memarlıq və İnşaat universitetinə qəbul olunmuşdur. Həmin illərdən həyat yoldaşı Abil Hüseynquliyevlə birlikdə xeyriyyəçilik fəaliyyətinə başlayıblar. </p>
+                            <p class="about-three__text-2">2017-ci ildən Azərbaycanda “ixtiyoz”, “kəpənək” və “immuno defsit” xəstəliyindən əziyət çəkən xəstələri araşdırıb onlara dəstək olmağa başlayıb. Xəstəlik nadir olduğu üçün həkimlər tərəfindən tanımlanmayıb. Buna baxmayaraq Elgül xanım artıq 5 ildir ki, həmin xəstələri tapıb dəstək olur, müalicə edir və əməliyyat etdirir.  </p>
                             <!-- <a href="about.html" class="thm-btn about-three__btn">Discover More</a> -->
                         </div>
                     </div>
@@ -204,7 +199,7 @@
                     <h3 class="become-volunteer-one__title">Join your hand with us for a <br> better life and future
                     </h3>
                     <div class="become-volunteer-one__btn-box">
-                        <a href="become-volunteer.html" class="thm-btn become-volunteer-one__btn">Discover More</a>
+                        <a href="donate-now.php" class="thm-btn become-volunteer-one__btn">İanə et</a>
                     </div>
                 </div>
             </div>
@@ -375,77 +370,7 @@
         <!--Team One End-->
 
         <!--Brand One Start-->
-        <section class="brand-one brand-three">
-            <div class="brand-two-shape-1" style="background-image: url(assets/images/shapes/brand-three-shape-1.png);">
-            </div>
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
-                            "0": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 2
-                            },
-                            "375": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 2
-                            },
-                            "575": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 3
-                            },
-                            "767": {
-                                "spaceBetween": 50,
-                                "slidesPerView": 4
-                            },
-                            "991": {
-                                "spaceBetween": 50,
-                                "slidesPerView": 5
-                            },
-                            "1199": {
-                                "spaceBetween": 100,
-                                "slidesPerView": 6
-                            }
-                        }}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-6.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-6.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                    </div>
-                </div>
-            </div>
-        </section>
+      
         <!--Brand One End-->
 
         <!--Site Footer Start-->
