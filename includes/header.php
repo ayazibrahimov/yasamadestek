@@ -26,6 +26,7 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap" rel="stylesheet">
 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -47,6 +48,7 @@
     <link rel="stylesheet" href="assets/vendors/vegas/vegas.min.css" />
     <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
     <link rel="stylesheet" href="assets/vendors/timepicker/timePicker.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/oxpins.css" />
@@ -121,7 +123,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <p>Ünvan</p>
-                                                    <h5>Bakı şəhəri, Etibar Qocayev 27</h5>
+                                                    <h5>Bakı şəhəri, Etibar Qocayev 5</h5>
                                                 </div>
                                             </li>
                                         </ul>
@@ -133,11 +135,39 @@
                                     <a href="https://www.tiktok.com/@yasamadestek?_t=8bcjNfPyEWw&_r=1"><i class="fab fa-tiktok"></i></a>
                                     <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFenvLvXksfBwAAAYeZgYkAmVEBjWKf3q8eUdtgh5RQI7o68t3n8sdTHeXwme2ueY_Ibl4LzJk5sFO4VG_SwoOKrLp7YTiCzjOG4tBB53ZqeV7EX66BqRWVN4YalXZfKskMYBE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felgul-h%25C3%25BCseynquliyeva-3869a3216"><i class="fab fa-linkedin"></i></a>
                                     </div>
+                                    <div class="selector">
+                                       <a class="selector__toggle" data-toggle="dropdown" href="#">
+                                           <span class="valueOfButton">Az</span>
+                                       </a>
+                                       <ul class="selector__list">
+                                           <li><a href="#" class="/boomerang">AZ</a></li>
+                                           <li><a href="#" class="/de/blog">EN</a></li>
+                                           <li><a href="#" class="/de/blog">RU</a></li>
+                                       </ul>
+                                   </div>
                                 </div>
                             </div>
                             <div class="main-menu__right-bottom">
                                 <div class="main-menu__main-menu-box">
-                                    <a href="index.php" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+
+                                    <div class="gutter__lang d-flex align-items-center">
+                                        <div class="selector">
+                                           <a class="selector__toggle" data-toggle="dropdown" href="#">
+                                               <span class="valueOfButton">Az</span>
+                                           </a>
+                                           <ul class="selector__list">
+                                               <li><a href="#" class="/boomerang">AZ</a></li>
+                                               <li><a href="#" class="/de/blog">EN</a></li>
+                                               <li><a href="#" class="/de/blog">RU</a></li>
+                                           </ul>
+                                       </div>
+
+                                       <div>
+                                         <a href="index.php" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+                                       </div>
+                                    </div>
+                                  
+                                  
                                     <ul class="main-menu__list">
                                         <li class="dropdown current megamenu">
                                             <a href="index.php">Ana Səhifə </a>
@@ -204,9 +234,9 @@
                                             <a href="#"
                                                 class="main-menu__search search-toggler icon-magnifying-glass"></a>
                                         </div> -->
-                                        <div class="main-menu__cat-box">
+                                        <!-- <div class="main-menu__cat-box">
                                             <a href="cart.php" class="main-menu__cart icon-shopping-cart"></a>
-                                        </div>
+                                        </div> -->
                                         <div class="main-menu__btn-box">
                                             <a href="donate-now.php" class="main-menu__btn"> <span
                                                     class="fa fa-heart"></span>İanə et</a>

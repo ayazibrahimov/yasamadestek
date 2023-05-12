@@ -34,13 +34,13 @@
                             <div class="news-one__content-box">
                                 <div class="news-one__content-inner">
                                     <div class="news-one__content">
-                                        <ul class="list-unstyled news-one__meta">
+                                        <!-- <ul class="list-unstyled news-one__meta">
                                             <li><a href="bloq-details.php"><i class="far fa-user-circle"></i> Admin</a>
                                             </li>
                                             <li><a href="bloq-details.php"><i class="fas fa-comments"></i> 2
                                                     Comments</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                         <h3 class="news-one__title"><a href="bloq-details.php">How does the
                                                 malnutrition
                                                 affect children?</a></h3>
@@ -78,13 +78,13 @@
                             <div class="news-one__content-box">
                                 <div class="news-one__content-inner">
                                     <div class="news-one__content">
-                                        <ul class="list-unstyled news-one__meta">
+                                        <!-- <ul class="list-unstyled news-one__meta">
                                             <li><a href="bloq-details.php"><i class="far fa-user-circle"></i> Admin</a>
                                             </li>
                                             <li><a href="bloq-details.php"><i class="fas fa-comments"></i> 2
                                                     Comments</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                         <h3 class="news-one__title"><a href="bloq-details.php">Lorem Ipsum has been the
                                                 industry's standard</a></h3>
                                     </div>
@@ -121,13 +121,13 @@
                             <div class="news-one__content-box">
                                 <div class="news-one__content-inner">
                                     <div class="news-one__content">
-                                        <ul class="list-unstyled news-one__meta">
+                                        <!-- <ul class="list-unstyled news-one__meta">
                                             <li><a href="bloq-details.php"><i class="far fa-user-circle"></i> Admin</a>
                                             </li>
                                             <li><a href="bloq-details.php"><i class="fas fa-comments"></i> 2
                                                     Comments</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                         <h3 class="news-one__title"><a href="bloq-details.php">There are many
                                                 variations of passages of Lorem</a></h3>
                                     </div>
@@ -164,13 +164,13 @@
                             <div class="news-one__content-box">
                                 <div class="news-one__content-inner">
                                     <div class="news-one__content">
-                                        <ul class="list-unstyled news-one__meta">
+                                        <!-- <ul class="list-unstyled news-one__meta">
                                             <li><a href="bloq-details.php"><i class="far fa-user-circle"></i> Admin</a>
                                             </li>
                                             <li><a href="bloq-details.php"><i class="fas fa-comments"></i> 2
                                                     Comments</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                         <h3 class="news-one__title"><a href="bloq-details.php">Lorem ipsum dolor sit
                                                 amet, consectetur</a></h3>
                                     </div>
@@ -207,13 +207,13 @@
                             <div class="news-one__content-box">
                                 <div class="news-one__content-inner">
                                     <div class="news-one__content">
-                                        <ul class="list-unstyled news-one__meta">
+                                        <!-- <ul class="list-unstyled news-one__meta">
                                             <li><a href="bloq-details.php"><i class="far fa-user-circle"></i> Admin</a>
                                             </li>
                                             <li><a href="bloq-details.php"><i class="fas fa-comments"></i> 2
                                                     Comments</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                         <h3 class="news-one__title"><a href="bloq-details.php">Aenean sollicitudin leo
                                                 nunc, nec ornare enim</a></h3>
                                     </div>
@@ -250,13 +250,13 @@
                             <div class="news-one__content-box">
                                 <div class="news-one__content-inner">
                                     <div class="news-one__content">
-                                        <ul class="list-unstyled news-one__meta">
+                                        <!-- <ul class="list-unstyled news-one__meta">
                                             <li><a href="bloq-details.php"><i class="far fa-user-circle"></i> Admin</a>
                                             </li>
                                             <li><a href="bloq-details.php"><i class="fas fa-comments"></i> 2
                                                     Comments</a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                         <h3 class="news-one__title"><a href="bloq-details.php">Donec a scelerisque
                                                 nibh. Cras laoreet tellus</a></h3>
                                     </div>

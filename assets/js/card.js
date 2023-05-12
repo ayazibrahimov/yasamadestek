@@ -6,12 +6,10 @@ let numsArr = []
 
 function changeNums(){
     
-    const data = num.textContent.replace(/(.{4})/g, '$1 ')
-    
-    num.textContent = data
 
+    num.textContent = num.textContent.replace(/(.{4})/g, '$1 ')
     
-    
+
 }
 
 
@@ -20,18 +18,23 @@ changeNums()
 
 
 copyBtn.addEventListener('click',function(e){
+   
     e.preventDefault()
     navigator.clipboard.writeText(num.textContent)
 
     if(navigator.clipboard.writeText){
+   
         coppiedBox.classList.remove('dis-none')
 
         setTimeout(()=>{
+   
             coppiedBox.classList.add('dis-none')
+   
         },1000)
 
     }
 })
+
 
 
 

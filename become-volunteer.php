@@ -81,7 +81,8 @@
                                                     </div>
                                                     <div class="become-volunteer__call-content">
                                                         <span>Call Anytime</span>
-                                                        <p><a href="tel:980009630">+98 (000) - 9630</a></p>
+                                                        <p><a href="tel:+994504558790">050 455 87 90</a></p>
+                                                        <p><a href="tel:+994514442751">051 444 27 51</a></p>
                                                     </div>
                                                 </div>
                                        </div>

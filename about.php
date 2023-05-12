@@ -66,123 +66,6 @@
         <!--About Four End-->
 
         <!--Testimonial Two Start-->
-        <section class="testimonial-two">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">Our testimonials</span>
-                    <h2 class="section-title__title">What they’re talking <br> about oxpins</h2>
-                </div>
-                <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
-                    "loop": true,
-                    "autoplay": true,
-                    "margin": 30,
-                    "nav": false,
-                    "dots": false,
-                    "smartSpeed": 500,
-                    "autoplayTimeout": 10000,
-                    "navText": ["<span class=\"icon-left-arrow\"></span>","<span class=\"icon-right-arrow\"></span>"],
-                    "responsive": {
-                        "0": {
-                            "items": 1
-                        },
-                        "768": {
-                            "items": 1
-                        },
-                        "992": {
-                            "items": 2
-                        },
-                        "1200": {
-                            "items": 3
-                        }
-                    }
-                }'>
-                    <div class="item">
-                        <!--Testimonial Two Single Start-->
-                        <div class="testimonial-two__single">
-                            <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-1.jpg" alt="">
-                            </div>
-                            <div class="testimonial-two__content">
-                                <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
-                                </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
-                                <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Sarah albert</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
-                                </div>
-                                <div class="testimonial-two__rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Testimonial Two Single End-->
-                    </div>
-                    <div class="item">
-                        <!--Testimonial Two Single Start-->
-                        <div class="testimonial-two__single">
-                            <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
-                            </div>
-                            <div class="testimonial-two__content">
-                                <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
-                                </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
-                                <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Kevin martin</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
-                                </div>
-                                <div class="testimonial-two__rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Testimonial Two Single End-->
-                    </div>
-                    <div class="item">
-                        <!--Testimonial Two Single Start-->
-                        <div class="testimonial-two__single">
-                            <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-3.jpg" alt="">
-                            </div>
-                            <div class="testimonial-two__content">
-                                <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
-                                </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
-                                <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Jessica brown</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
-                                </div>
-                                <div class="testimonial-two__rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Testimonial Two Single End-->
-                    </div>
-                </div>
-            </div>
-        </section>
         <!--Testimonial Two End-->
 
         <!--Become Volunteer One Start-->
@@ -207,7 +90,7 @@
         <!--Become Volunteer One End-->
 
         <!--FAQ One Start-->
-        <section class="faq-one faq-two">
+        <section class="faq-one">
             <div class="faq-one-shape-1" style="background-image: url(assets/images/shapes/faq-one-shape-1.png);"></div>
             <div class="faq-one-bg" style="background-image: url(assets/images/backgrounds/faq-one-bg.png);"></div>
             <div class="container">
@@ -216,8 +99,7 @@
                         <div class="faq-one__left">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Recently asked questions</span>
-                                <h2 class="section-title__title">People are frequently asking some questions from us
-                                </h2>
+                                <h2 class="section-title__title">FAQ paneli</h2>
                             </div>
                             <p class="faq-one__text-1">Proactively procrastinate cross-platform results via extensive
                                 ideas distinctively underwhelm enterprise. Compellingly plagiarize value-added sources
@@ -281,92 +163,7 @@
         <!--FAQ One End-->
 
         <!--Team One Start-->
-        <section class="team-one">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">Our expert team</span>
-                    <h2 class="section-title__title">Komanda üzvləri</h2>
-                </div>
-                <div class="row">
-                    <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-1.jpg" alt="">
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="team-details.html">Sarah albert</a></h3>
-                                <p class="team-one__sub-title">Volunteer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-2.jpg" alt="">
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="team-details.html">Kevin martin</a></h3>
-                                <p class="team-one__sub-title">Volunteer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-3.jpg" alt="">
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="team-details.html">Aleesha eve</a></h3>
-                                <p class="team-one__sub-title">Volunteer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-4.jpg" alt="">
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="team-details.html">David cooper</a></h3>
-                                <p class="team-one__sub-title">Volunteer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                </div>
-            </div>
-        </section>
+      
         <!--Team One End-->
 
         <!--Brand One Start-->

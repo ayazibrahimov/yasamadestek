@@ -5,23 +5,31 @@
             <div class="site-footer__top">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="col-xl-4 col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__about-logo">
                                     <a href="index.html"><img src="assets/images/imagedata/Logo3.png" alt=""></a>
                                 </div>
                                 <div class="footer-widget__about-text-box">
                                     <p class="footer-widget__about-text">Nulla ultricies justo sit amet ante efficitur,
-                                        eget pharetra augue efficitur. Vestibulum viverra, dolor sit amet ultricies.</p>
+                                        eget pharetra augue efficitur vestibulum </p>
                                 </div>
                                 <!-- <div class="footer-widget__btn">
                                     <a href="donate-now.html"> <span class="fa fa-heart"></span>İNDİ İANƏ ET</a>
                                 </div> -->
+                                <div class="site-footer__social">
+                                    <!-- <a href="#"><i class="fab fa-twitter"></i></a> -->
+                                    <a href="https://www.facebook.com/yasamadestek?mibextid=ZbWKwL"><i class="fab fa-facebook"></i></a>
+                                    <a href="https://www.youtube.com/@yasamadestek1191"><i class="fab fa-youtube"></i></a>
+                                    <a href="https://www.instagram.com/yasama_destek/?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.tiktok.com/@yasamadestek?_t=8bcjNfPyEWw&_r=1"><i class="fab fa-tiktok"></i></a>
+                                    <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFenvLvXksfBwAAAYeZgYkAmVEBjWKf3q8eUdtgh5RQI7o68t3n8sdTHeXwme2ueY_Ibl4LzJk5sFO4VG_SwoOKrLp7YTiCzjOG4tBB53ZqeV7EX66BqRWVN4YalXZfKskMYBE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felgul-h%25C3%25BCseynquliyeva-3869a3216"><i class="fab fa-linkedin"></i></a>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                            <div class="footer-widget__column footer-widget__links clearfix">
-                                <h3 class="footer-widget__title">lINK1</h3>
+                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 wow fadeInUp" data-wow-delay="200ms">
+                            <div class="footer-widget__column footer-widget__column--1 footer-widget__links clearfix">
+                                <!-- <h3 class="footer-widget__title">lINK1</h3> -->
                                 <ul class="footer-widget__links-list list-unstyled clearfix">
                                     <li><a href="index.php">Ana səhifə</a></li>
                                     <li><a href="about.php">Haqqımızda</a></li>
@@ -32,9 +40,9 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                            <div class="footer-widget__column footer-widget__non-profit clearfix">
-                                <h3 class="footer-widget__title">Link2</h3>
+                        <div class="col-xl-2 col-lg-6 col-md-6 col-6 wow fadeInUp" data-wow-delay="300ms">
+                            <div class="footer-widget__column footer-widget__column--1 footer-widget__non-profit clearfix">
+                                <!-- <h3 class="footer-widget__title">Link2</h3> -->
                                 <ul class="footer-widget__non-profit-list list-unstyled clearfix">
                                     <li><a href="become-volunteer.php">Vakansiya</a></li>
                                     <li><a href="products.php">Shop</a></li>
@@ -44,10 +52,9 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                            <div class="footer-widget__column footer-widget__contact">
-                                <h3 class="footer-widget__title">Bizimlə Əlaqə</h3>
-                                <p class="footer-widget__contact-text"> Bakı şəhəri, Etibar Qocayev 27<br> Yaşama Dəstək fondunun baş ofisi </p>
+                        <div class="col-xl-4 col-lg-6 col-md-6 col-12 wow fadeInUp" data-wow-delay="400ms">
+                            <div class="footer-widget__column footer-widget__column--1 footer-widget__contact">
+                                <p class="footer-widget__contact-text"> Bakı şəhəri, Etibar Qocayev 5<br> Yaşama Dəstək fondunun baş ofisi </p>
                                 <ul class="list-unstyled footer-widget__contact-list">
                                     <li>
                                         <div class="icon">
@@ -67,20 +74,19 @@
                                         </div>
                                     </li>
                                 </ul>
-                                <div class="site-footer__social">
-                                    <!-- <a href="#"><i class="fab fa-twitter"></i></a> -->
-                                    <a href="https://www.facebook.com/yasamadestek?mibextid=ZbWKwL"><i class="fab fa-facebook"></i></a>
-                                    <a href="https://www.youtube.com/@yasamadestek1191"><i class="fab fa-youtube"></i></a>
-                                    <a href="https://www.instagram.com/yasama_destek/?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.tiktok.com/@yasamadestek?_t=8bcjNfPyEWw&_r=1"><i class="fab fa-tiktok"></i></a>
-                                    <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFenvLvXksfBwAAAYeZgYkAmVEBjWKf3q8eUdtgh5RQI7o68t3n8sdTHeXwme2ueY_Ibl4LzJk5sFO4VG_SwoOKrLp7YTiCzjOG4tBB53ZqeV7EX66BqRWVN4YalXZfKskMYBE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felgul-h%25C3%25BCseynquliyeva-3869a3216"><i class="fab fa-linkedin"></i></a>
-                                </div>
+                               
+                            </div>
+                        </div>
+                        <div class="col-xl-12">
+                            <div class="site-footer__bottom-inner">
+                                <p class="site-footer__bottom-text">© All Right Reserved by<a href="#">Abasoft</a>
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="site-footer__bottom">
+            <!-- <div class="site-footer__bottom">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-12">
@@ -91,7 +97,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </footer>
         <!--Site Footer End-->
 
@@ -105,9 +111,10 @@
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
-            <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143"
+            <div class="logo-box d-flex align-items-center justify-content-between">
+                <a href="index.php" aria-label="logo image"><img src="assets/images/imagedata/mainLogo.png" width="143"
                         alt="" /></a>
+                      
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -125,10 +132,18 @@
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
-                    <a href="#" class="fab fa-twitter"></a>
-                    <a href="#" class="fab fa-facebook-square"></a>
-                    <a href="#" class="fab fa-pinterest-p"></a>
-                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="https://www.facebook.com/yasamadestek?mibextid=ZbWKwL" class="fab fa-facebook-square"></a>
+                    <a href="https://www.youtube.com/@yasamadestek1191" class="fab fa-youtube"></a>
+                    <a href="https://www.instagram.com/yasama_destek/?igshid=YmMyMTA2M2Y=" class="fab fa-instagram"></a>
+                    <a href="https://www.tiktok.com/@yasamadestek?_t=8bcjNfPyEWw&_r=1" class="fab fa-tiktok"></a>
+                    <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFenvLvXksfBwAAAYeZgYkAmVEBjWKf3q8eUdtgh5RQI7o68t3n8sdTHeXwme2ueY_Ibl4LzJk5sFO4VG_SwoOKrLp7YTiCzjOG4tBB53ZqeV7EX66BqRWVN4YalXZfKskMYBE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felgul-h%25C3%25BCseynquliyeva-3869a3216" class="fab fa-linkedin"></a>
+
+
+                    <!-- <a href="https://www.facebook.com/yasamadestek?mibextid=ZbWKwL"><i class="fab fa-facebook"></i></a>
+                                    <a href="https://www.youtube.com/@yasamadestek1191"><i class="fab fa-youtube"></i></a>
+                                    <a href="https://www.instagram.com/yasama_destek/?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.tiktok.com/@yasamadestek?_t=8bcjNfPyEWw&_r=1"><i class="fab fa-tiktok"></i></a>
+                                    <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFenvLvXksfBwAAAYeZgYkAmVEBjWKf3q8eUdtgh5RQI7o68t3n8sdTHeXwme2ueY_Ibl4LzJk5sFO4VG_SwoOKrLp7YTiCzjOG4tBB53ZqeV7EX66BqRWVN4YalXZfKskMYBE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felgul-h%25C3%25BCseynquliyeva-3869a3216"><i class="fab fa-linkedin"></i></a> -->
                 </div><!-- /.mobile-nav__social -->
             </div><!-- /.mobile-nav__top -->
 
@@ -156,7 +171,7 @@
     <!-- /.search-popup -->
 
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="icon-up-arrow"></i></a>
-    <a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank" class="scroll-to-target scroll-to-top-whatsapp"><img src="assets\images\imagedata\Vectorwp1.png" alt=""></a>
+    <a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank" class="scroll-to-target scroll-to-top-whatsapp"><img src="assets\images\imagedata\Vectorwp1.png" class="whatsapp--data" alt=""></a>
     
   
 
@@ -193,6 +208,7 @@
     <!-- template js -->
     <script src="assets/js/oxpins.js"></script>
     <script src="assets/js/card.js"></script>
+    <script src="assets/js/language.js"></script>
 </body>
 
 </html>
